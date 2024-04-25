@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.container {
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+width: 400px;
+height: 100px;
+padding: 20px;
+outline: 2px solid black;
+}
+
+.part01{
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    width: 70px;
+    height: 30px;
+    font-size: 1.2rem;
+    color: black;
+    background-color: #FFD966;
+    box-shadow: 2px 2px 2px black;
+}
